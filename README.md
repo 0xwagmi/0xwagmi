@@ -8,10 +8,10 @@
  |   Collection     | Description |
 | ----------- | ----------- |
 | ![file](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0no56XN7JReIC8oaMG32ahhyguOM0cl3tPwvE1KLpb6hj3WaFrg1GauHfEmpBoml2w9g&usqp=CAU)      |          |
-| Ai   |  [list/ai](https://github.com/stars/Oxwagmi/lists/ai)       |
- | web3 sec   |  [list/web3-sec](https://github.com/stars/Oxwagmi/lists/web3-security)       |
-  | web3 dev  |  [list/web3-dev](https://github.com/stars/Oxwagmi/lists/web3-dev)       |
-  | nvim   |  [list/bin/bash](https://github.com/stars/Oxwagmi/lists/bash-zsh-vim-nvim)       |
+| Ai   |  [list/ai](https://github.com/stars/0xwagmi/lists/ai)       |
+ | web3 sec   |  [list/web3-sec](https://github.com/stars/0xwagmi/lists/web3-security)       |
+  | web3 dev  |  [list/web3-dev](https://github.com/stars/0xwagmi/lists/web3-dev)       |
+  | nvim   |  [list/bin/bash](https://github.com/stars/0xwagmi/lists/bash-zsh-vim-nvim)       |
 
 
 
