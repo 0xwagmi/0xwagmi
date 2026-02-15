@@ -2,7 +2,7 @@
 
 
 
- <img align="right" width="250" height="250" alt="GIF" src="https://github.com/niluk-256/niluk-256/assets/67406138/04f48788-b7c1-4c1e-a278-f230a47902ba" />
+<!-- <img align="right" width="250" height="250" alt="GIF" src="https://github.com/0xwagmi/0xwagmi/assets/67406138/04f48788-b7c1-4c1e-a278-f230a47902ba" /> -->
 
  ---
  |   Collection     | Description |
