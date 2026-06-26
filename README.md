@@ -4,7 +4,7 @@
 
 
 <!-- <img align="right" width="250" height="250" alt="GIF" src="https://github.com/0xwagmi/0xwagmi/assets/67406138/04f48788-b7c1-4c1e-a278-f230a47902ba" /> -->
-<img align="" width="1399" height="450" alt="faaaah" src="https://github.com/user-attachments/assets/3e39263f-d0b0-4221-af20-3196ad0a8e65" />
+<img width="1365" height="416" alt="image" src="https://github.com/user-attachments/assets/0e02bbe2-4bf9-4677-8091-c09a8d992521" />
 
  ---
  |   Collection     | Description |
